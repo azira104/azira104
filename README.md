@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a final year student pursuing a Bachelor of Computer Science in Bioinformatics with Honours at UTM, based in Johor Bahru.<br>In my previous internship at AIBIG, UMK, I worked on the development of the Polar Region Website project. <br>My current project involves working on my final year project about the Classification of Autism Spectrum Disorder (ASD)<br> using optimized Logistic Regression. I'm passionate about my field and committed to making a meaningful impact through my work.
+I'm Rohaizaazira Binti Mohd Zawawi and currently a final year student pursuing a Bachelor of Computer Science in Bioinformatics with Honours at Universiti Teknologi Malaysia, based in Johor Bahru.<br>In my previous internship at AIBIG, Universiti Malaysia Kelantan, I worked on the development of the Polar Region Website project. <br>My current project involves working on my final year project about the Classification of Autism Spectrum Disorder (ASD)<br> using optimized Logistic Regression. I'm passionate about my field and committed to making a meaningful impact through my work.
 
 
 ## 🌐 Socials:
